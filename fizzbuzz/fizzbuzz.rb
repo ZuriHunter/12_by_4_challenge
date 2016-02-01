@@ -8,10 +8,10 @@
 		print "fizz"
 
 	elsif (number % 5 == 0)
-		print "bizz"
+		print "buzz"
 
 	else (number % 3 == 0 && number % 5 == 0)
-		print "fizzbizz"
+		print "fizzbuzz"
 
 	end
 end

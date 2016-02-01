@@ -6,8 +6,8 @@ for number in range(100):
 	if number % 5 == 0:
 		print ('fizz')
 	elif number % 3 == 0:
-		print ('biz')
+		print ('buzz')
 	elif number % 5 == 0 & number % 3 == 0:
-			print ('fizzbizz')
+			print ('fizzbuzz')
 	else:
 	    print ('Not a Divisble')

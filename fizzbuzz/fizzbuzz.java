@@ -4,7 +4,7 @@ For numbers which are multiples of both three and five print “FizzBuzz” */
 
 import math;
 
-public class FizzBizz{
+public class FizzBuzz{
 
      public static void main(String []args){
 
@@ -13,10 +13,10 @@ public class FizzBizz{
                      System.out.println("Fizz");
                  }
                  else if (i % 5 == 0){
-                     System.out.println("Bizz");
+                     System.out.println("Buzz");
                  }
                  else if (i % 5 == 0 && i % 3 == 0){
-                     System.out.println("FizzBizz");
+                     System.out.println("FizzBuzz");
                  }
              }
          }
