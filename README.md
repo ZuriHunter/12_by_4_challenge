@@ -19,7 +19,7 @@ algorithm problems in Java.
 
 The order of problems goes as follows:
 
-* January = Fizz Bizz FizzBizz
+* January = Fizz Buzz FizzBuzz
 
 * February = Multiples of 3 and 5
 
