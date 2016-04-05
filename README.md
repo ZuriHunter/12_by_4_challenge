@@ -21,9 +21,9 @@ The order of problems goes as follows:
 
 * January = Fizz Bizz FizzBizz
 
-* February = To Be Determined
+* February = Multiples of 3 and 5
 
-* March = To Be Determined
+* March = Fibonacci Sequence
 
 * April = To Be Determined
 
@@ -41,4 +41,4 @@ The order of problems goes as follows:
 
 * November = To Be Determined
 
-* December = To Be Determined 
+* December = To Be Determined
